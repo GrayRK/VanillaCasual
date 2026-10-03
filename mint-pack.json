@@ -670,7 +670,7 @@
             "url": "https://cdn.modrinth.com/data/SKW62Pht/versions/hiKIqsbj/rsls-neoforge-1.1.17.jar",
             "sha1": "b4ab9b97fbf4fb85bf69f98aacca7d1b498e10ae",
             "size": 61175,
-            "side": "BOTH"
+            "side": "CLIENT"
         },
         {
             "path": "mods/shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",
