@@ -1,0 +1,12 @@
+{
+  "text.trender.name": "Trender",
+  "text.trender.tab.general_options": "Настройки",
+  "text.trender.style": "Стиль интерфейса",
+  "text.trender.style.tooltip": "Меняет стиль интерфейса во всех модах от tr7zw.",
+  "text.trender.style.MODERN": "Современный",
+  "text.trender.style.MODERN_DARK": "Современный тёмный",
+  "text.trender.style.VANILLA_OLD": "Старый ванильный",
+  "text.trender.style.VANILLA_MODERN": "Современный ванильный",
+  "text.trender.sendstacktraces": "Отправлять трассировки",
+  "text.trender.sendstacktraces.tooltip": "Если включено, трассировки из лога и падения игры, в которых упоминаются моды tr7zw, будут отправляться автору через Sentry (Sentry.io), чтобы быстрее исправлять ошибки. Личные данные не собираются и не передаются. (После включения перезапустите игру)"
+}

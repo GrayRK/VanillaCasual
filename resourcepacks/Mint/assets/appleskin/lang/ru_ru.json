@@ -1,0 +1,12 @@
+{
+  "appleskin.configuration.showFoodValuesInTooltip.tooltip": "Показывать сытость и насыщение еды в подсказке при зажатом SHIFT",
+  "appleskin.configuration.showFoodValuesInTooltipAlways.tooltip": "Показывать сытость и насыщение еды в подсказке всегда, без SHIFT",
+  "appleskin.configuration.showFoodValuesHudOverlay.tooltip": "Показывать, сколько сытости (и насыщения, если включено showSaturationHudOverlay) восстановит еда в руке",
+  "appleskin.configuration.showFoodValuesHudOverlayWhenOffhand.tooltip": "Показывать подсказки по сытости, насыщению и здоровью и для еды во второй руке",
+  "appleskin.configuration.showFoodHealthHudOverlay.tooltip": "Показывать на шкале здоровья, сколько его примерно восстановит еда",
+  "appleskin.configuration.showFoodExhaustionHudUnderlay.tooltip": "Показывать усталость полоской позади шкалы голода",
+  "appleskin.configuration.showSaturationHudOverlay.tooltip": "Показывать текущее насыщение поверх шкалы голода",
+  "appleskin.configuration.showFoodStatsInDebugOverlay.tooltip": "Показывать сытость, насыщение и усталость на отладочном экране",
+  "appleskin.configuration.showVanillaAnimationsOverlay.tooltip": "Подсказки здоровья и голода будут подрагивать в такт ванильным значкам",
+  "appleskin.configuration.maxHudOverlayFlashAlpha.tooltip": "Непрозрачность мигающих значков в самой яркой точке (1.0 — полностью непрозрачно, 0.0 — полностью прозрачно)"
+}

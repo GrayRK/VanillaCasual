@@ -1,0 +1,7 @@
+{
+  "betterdeserttemples.configuration.YUNG's Better Desert Temples.General": "Общие",
+  "betterdeserttemples.configuration.YUNG's Better Desert Temples.General.Disable Vanilla Pyramids": "Отключить ванильные пирамиды",
+  "betterdeserttemples.configuration.YUNG's Better Desert Temples.General.Disable Vanilla Pyramids.tooltip": "Убирает ванильные пирамиды, чтобы вместо них ставились пирамиды мода. По умолчанию: да.",
+  "betterdeserttemples.configuration.YUNG's Better Desert Temples.General.Apply Mining Fatigue": "Накладывать усталость",
+  "betterdeserttemples.configuration.YUNG's Better Desert Temples.General.Apply Mining Fatigue.tooltip": "Накладывает усталость на игрока внутри пирамиды, пока не побеждён её страж. По умолчанию: да."
+}

@@ -1,0 +1,42 @@
+# Репозиторий сборки VanillaCasual.
+#
+# В git едет только то, что игрок должен получить одинаковым: описание сборки,
+# конфиги и стартовые настройки. Моды, ресурспаки и шейдерпак качаются по ссылкам
+# из mint-pack.json, поэтому здесь лежит лишь то, чего нет на Modrinth.
+#
+# Всё остальное (миры, логи, скриншоты, кэши) остаётся у игрока локальным.
+
+/*
+
+!/.gitignore
+!/.gitattributes
+!/instance.json
+!/mint-pack.json
+
+# Звук упоминания в чате: мод Sounds сам вписывает сюда ник того, кто запустил игру,
+# поэтому файл остаётся локальным — у игрока он создастся со своим ником
+/config/sounds/chat.json
+
+# Настройки модов
+!/config/
+
+# Клавиши, громкость, дальность прорисовки — стартовые значения сборки
+!/options.txt
+
+# Ресурспак сборки «Mint» (русский перевод) и своя музыка «Mint Music».
+# Настройка Icons через respackopts лежит рядом с паком — .rpo
+!/resourcepacks/
+/resourcepacks/*
+!/resourcepacks/Mint/
+!/resourcepacks/Mint Music/
+!/resourcepacks/*.rpo
+
+# Шейдерпак качается с Modrinth (так требует лицензия Complementary), в git — только его настройки
+!/shaderpacks/
+/shaderpacks/*
+!/shaderpacks/*.txt
+
+# Моды не из Modrinth: их приходится хранить целиком
+!/mods/
+/mods/*
+!/mods/mint-worldgen-*.jar

@@ -1,0 +1,8 @@
+{
+  "cloth_config.sound_physics_remastered.reverb_attenuation_distance": "Дистанция затухания реверберации",
+  "cloth_config.sound_physics_remastered.reverb_attenuation_distance.description": "Расстояние луча, с которого начинается реверберация.\n0.0 отключает затухание реверберации.",
+  "cloth_config.sound_physics_remastered.reverb_distance": "Дистанция реверберации",
+  "cloth_config.sound_physics_remastered.reverb_distance.description": "Дистанция реверберации относительно дистанции звука.",
+  "cloth_config.sound_physics_remastered.evaluate_ambient_sounds": "Обрабатывать звуки окружения",
+  "cloth_config.sound_physics_remastered.evaluate_ambient_sounds.description": "Применять ли физику звука к звукам окружения — пещерным, незерским и подводным."
+}

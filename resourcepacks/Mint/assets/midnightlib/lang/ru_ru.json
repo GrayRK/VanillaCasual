@@ -1,0 +1,7 @@
+{
+  "midnightlib.modrinth": "Modrinth",
+  "midnightlib.curseforge": "CurseForge",
+  "midnightconfig.action.list_index": "Правка списка, позиция %s",
+  "midnightconfig.action.color_chooser": "Выбрать цвет",
+  "midnightconfig.action.file_chooser": "Выбрать файл"
+}

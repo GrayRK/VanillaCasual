@@ -1,0 +1,23 @@
+{
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways": "Ванильные врата Края",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.useVanillaEndGateways.@Tooltip": "Появятся ли в Крае ванильные врата вместо переработанных",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound": "Звук колокола",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.playBellSound.@Tooltip": "Звучит ли колокол перед первым призывом дракона Края и при повторных призывах",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially": "Центральная башня сразу",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerInitially.@Tooltip": "Появится ли центральная башня при первой генерации мира",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon": "Башня при повторном призыве",
+  "text.autoconfig.betterendisland-fabric-1_21.option.general.spawnCentralTowerOnResummon.@Tooltip": "Появится ли центральная башня заново, когда дракона призовут снова",
+  "betterendisland.configuration.YUNG's Better End Island": "Остров Края",
+  "betterendisland.configuration.YUNG's Better End Island.Resummoned Dragon Drops Egg": "Повторно призванный дракон роняет яйцо",
+  "betterendisland.configuration.YUNG's Better End Island.Resummoned Dragon Drops Egg.tooltip": "Выпадает ли яйцо дракона при каждом последующем убийстве. По умолчанию: нет.",
+  "betterendisland.configuration.YUNG's Better End Island.Spawn Vanilla Obsidian Platform": "Ванильная обсидиановая площадка",
+  "betterendisland.configuration.YUNG's Better End Island.Spawn Vanilla Obsidian Platform.tooltip": "Появится ли обычная площадка прибытия вместо переработанной. По умолчанию: нет.",
+  "betterendisland.configuration.YUNG's Better End Island.Spawn Vanilla End Gateways": "Ванильные врата Края",
+  "betterendisland.configuration.YUNG's Better End Island.Spawn Vanilla End Gateways.tooltip": "Появятся ли обычные врата вместо переработанных. По умолчанию: нет.",
+  "betterendisland.configuration.YUNG's Better End Island.Play Bell Sound": "Звук колокола",
+  "betterendisland.configuration.YUNG's Better End Island.Play Bell Sound.tooltip": "Звучит ли колокол перед первым призывом дракона и при повторных призывах. По умолчанию: да.",
+  "betterendisland.configuration.YUNG's Better End Island.Spawn Central Tower Initially": "Центральная башня сразу",
+  "betterendisland.configuration.YUNG's Better End Island.Spawn Central Tower Initially.tooltip": "Появится ли центральная башня при первой генерации мира. По умолчанию: да.",
+  "betterendisland.configuration.YUNG's Better End Island.Respawn Central Tower on Resummon": "Башня при повторном призыве",
+  "betterendisland.configuration.YUNG's Better End Island.Respawn Central Tower on Resummon.tooltip": "Появится ли центральная башня заново, когда дракона призовут снова. По умолчанию: да."
+}

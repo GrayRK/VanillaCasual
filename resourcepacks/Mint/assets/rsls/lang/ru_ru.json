@@ -1,0 +1,4 @@
+{
+  "options.rsls.maxSourcesCount": "Общий лимит звуков",
+  "options.rsls.maxStreamingSources": "Лимит потоковых звуков"
+}

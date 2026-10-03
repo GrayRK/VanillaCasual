@@ -1,0 +1,21 @@
+{
+  "config.loot_journal.category.itemIdFilters": "Отбор по предметам",
+  "config.loot_journal.category.itemTagFilters": "Отбор по тегам",
+  "config.loot_journal.category.modIdFilters": "Отбор по модам",
+  "config.loot_journal.group.filters": "Отбор",
+  "config.loot_journal.group.filters.desc": "",
+  "config.loot_journal.option.mergeMode": "Как объединять",
+  "config.loot_journal.option.mergeMode.desc": "Определяет, как записи о подобранном сливаются в одну.\n\n§fTYPE_NAMED§7 — по виду предмета, но предметы со своим именем не сливаются никогда.\n\n§fTYPE§7 — по виду предмета, без оглядки на NBT и имена.\n\n§fSTRICT§7 — только полностью одинаковые предметы, включая NBT.\n\n§fNONE§7 — не объединять. Каждый подбор отдельной строкой.",
+  "config.loot_journal.option.itemIdFilters": "Отбор по предметам",
+  "config.loot_journal.option.itemIdFilters.desc": "Открыть чёрный и белый списки предметов.",
+  "config.loot_journal.option.itemIdFilters.button": "Править…",
+  "config.loot_journal.option.itemIdFilters.label": "Имена предметов пишутся как §fпространство:имя§7, например §fminecraft:diamond§7 или §fmod_id:custom_item§7.",
+  "config.loot_journal.option.itemTagFilters": "Отбор по тегам",
+  "config.loot_journal.option.itemTagFilters.desc": "Открыть чёрный и белый списки тегов.",
+  "config.loot_journal.option.itemTagFilters.button": "Править…",
+  "config.loot_journal.option.itemTagFilters.label": "Лучше открывать этот экран, §fкогда мир загружен§7: большинство тегов появляются на ходу, и из главного меню подсказок не будет.",
+  "config.loot_journal.option.modIdFilters": "Отбор по модам",
+  "config.loot_journal.option.modIdFilters.desc": "Открыть чёрный и белый списки модов.",
+  "config.loot_journal.option.modIdFilters.button": "Править…",
+  "config.loot_journal.option.modIdFilters.label": "В подсказках только §fмоды, добавляющие хотя бы один предмет§7. Моды без предметов в списке не появятся."
+}

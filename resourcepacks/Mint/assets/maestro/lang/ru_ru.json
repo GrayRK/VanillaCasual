@@ -1,0 +1,8 @@
+{
+  "maestro.configuration.maestro_enabled": "Музыка Maestro",
+  "maestro.configuration.maestro_enabled.tooltip": "Включена ли собственная музыка Maestro. Если выключить, играть будет только ванильная музыка.",
+  "maestro.configuration.vanilla_enabled": "Ванильная музыка",
+  "maestro.configuration.vanilla_enabled.tooltip": "Включена ли ванильная музыка. Если выключить, музыка будет играть только по определениям Maestro.\n\nДля тех, кто хочет собрать музыку полностью с нуля.",
+  "maestro.configuration.debug_overlay": "Отладочный слой",
+  "maestro.configuration.debug_overlay.tooltip": "Показывает поверх экрана состояние музыкальных слоёв: что играет, где тишина, что заглушено.\n\nНужен для отладки и разработки."
+}

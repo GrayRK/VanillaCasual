@@ -1,0 +1,6 @@
+{
+  "libjf-config-ui-tiny.entry.json.read.fail.title": "Не удалось прочитать",
+  "libjf-config-ui-tiny.entry.json.read.fail.description": "Эту запись не получилось разобрать из строки. Правьте настройку вручную",
+  "libjf-config-ui-tiny.entry.json.write.fail.title": "Не удалось записать",
+  "libjf-config-ui-tiny.entry.json.write.fail.description": "Эту запись не получилось превратить в строку. Правьте настройку вручную"
+}

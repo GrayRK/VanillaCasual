@@ -1,0 +1,14 @@
+{
+  "priority": 1,
+  "layer": "underscore",
+  "sound_event": "mint_music:music.empty_room_after_midnight",
+  "condition": {
+    "type": "maestro:all_of",
+    "terms": [
+      { "type": "maestro:day_cycle", "is_night": true },
+      { "type": "maestro:heightmap", "below": "MOTION_BLOCKING_NO_LEAVES" },
+      { "type": "maestro:height", "above": 50 },
+      { "type": "maestro:dimension", "values": ["minecraft:overworld"] }
+    ]
+  }
+}

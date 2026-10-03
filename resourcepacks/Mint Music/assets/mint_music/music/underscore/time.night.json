@@ -1,0 +1,14 @@
+{
+  "priority": 0,
+  "layer": "underscore",
+  "sound_event": "mint_music:music.open_dark_space",
+  "condition": {
+    "type": "maestro:all_of",
+    "terms": [
+      { "type": "maestro:day_cycle", "is_night": true },
+      { "type": "maestro:heightmap", "above": "MOTION_BLOCKING_NO_LEAVES" },
+      { "type": "maestro:dimension", "values": ["minecraft:overworld"] },
+      { "type": "maestro:weather", "is_raining": false }
+    ]
+  }
+}

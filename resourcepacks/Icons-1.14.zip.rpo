@@ -1,0 +1,53 @@
+{
+    items: {
+        food: false,
+        armor: false,
+        trim: true,
+        enchantment: true,
+        enchantment_level: true,
+        effect: true,
+        potion_potency: true,
+        firework: false,
+        banner: false,
+        bee: false,
+        disc: true,
+        fish: false,
+        map: false,
+        goat_horn: false,
+        smithing: false,
+        attribute: true,
+        enchant_icons_color: false
+    },
+    menus: {
+        menu: false,
+        esc: false,
+        options: false,
+        skin: false,
+        video_settings: false,
+        chat_options: false,
+        controls: false,
+        sounds: false,
+        singleplayer: false,
+        multiplayer: false,
+        gamerule: false,
+        stat: false,
+        music: false,
+        gamemode: false,
+        difficulty: false,
+        color: false,
+        on_off: false,
+        advancement_title: false,
+        advancement_toast: false,
+        advancement: false,
+        item_group: false,
+        enchant: false,
+        death: false,
+        sleep: false
+    },
+    addons: {
+        menu_style: "default",
+        item_style: "default",
+        numerals: "roman",
+        force_holiday: "during_holiday"
+    }
+}

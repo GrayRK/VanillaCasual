@@ -1,0 +1,8 @@
+{
+  "iris.shaders.debug.restartNoDebug": "Отладка шейдеров включена; отладка OpenGL на NeoForge не поддерживается.",
+  "iris.load.failure.shader": "Не удалось загрузить шейдерпак! Сообщите об ошибке разработчику шейдера.",
+  "iris.load.failure.generic": "Iris не смог загрузить шейдер; сообщите об этом разработчикам Iris.",
+  "iris.keybind.wireframe": "Каркасный режим (только одиночная игра)",
+  "options.iris.colorSpace": "Цветовое пространство",
+  "options.iris.colorSpace.sodium_tooltip": "В какое цветовое пространство переводится картинка. Работает поверх шейдерпаков. Если не уверены — SRGB."
+}

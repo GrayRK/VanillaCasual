@@ -1,0 +1,215 @@
+{
+  "providers": [
+    {
+      "type": "reference",
+      "id": "minecraft:include/menus"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/statistics"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/hud"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/gui"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/advancement"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/splash"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/firework"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/banner_pattern"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/tropical_fish"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/music"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/map"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/smithing"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/magic"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/info"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/bee"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/toast"
+    },
+    {
+      "type": "reference",
+      "id": "minecraft:include/respackopts"
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/wither.png",
+      "ascent": 13,
+      "height": 36,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/enderdragon.png",
+      "ascent": 12,
+      "height": 39,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/raid.png",
+      "ascent": 9,
+      "height": 22,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/frostmaw.png",
+      "ascent": 6,
+      "height": 49,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/voidworm.png",
+      "ascent": 18,
+      "height": 37,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/witherstorm.png",
+      "ascent": 18,
+      "height": 64,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/nightlich.png",
+      "ascent": 16,
+      "height": 49,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/voidblossom.png",
+      "ascent": 14,
+      "height": 47,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/obsidilith.png",
+      "ascent": 8,
+      "height": 37,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/nethergauntlet.png",
+      "ascent": 9,
+      "height": 26,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/alpha_yeti.png",
+      "ascent": 19,
+      "height": 40,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/hydra.png",
+      "ascent": 17,
+      "height": 45,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/naga.png",
+      "ascent": 10,
+      "height": 50,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/snow_queen.png",
+      "ascent": 11,
+      "height": 42,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/urghast.png",
+      "ascent": 11,
+      "height": 31,
+      "chars": [
+        ""
+      ]
+    },
+    {
+      "type": "bitmap",
+      "ascent": 0,
+      "chars": [
+        ""
+      ],
+      "file": "minecraft:particle/fresh_animations/is_fa_extension.png"
+    }
+  ]
+}

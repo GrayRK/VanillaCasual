@@ -1,0 +1,10 @@
+{
+  "libjf_translate_v1.jfconfig.title": "LibJF Translate v1",
+  "libjf_translate_v1.jfconfig.translationService": "Служба перевода",
+  "libjf_translate_v1.jfconfig.translationService.tooltip": "Какой службой переводить. Другие моды могут обращаться к службам напрямую, но пользоваться следует этой настройкой",
+  "libjf_translate_v1.jfconfig.libreTranslateHost": "Адрес LibreTranslate",
+  "libjf_translate_v1.jfconfig.libreTranslateHost.tooltip": "Адрес LibreTranslate, если выбрана эта служба",
+  "libjf_translate_v1.jfconfig.translationService.Google": "Google",
+  "libjf_translate_v1.jfconfig.translationService.LibreTranslate": "LibreTranslate",
+  "libjf_translate_v1.jfconfig.translationService.Noop": "Не переводить"
+}

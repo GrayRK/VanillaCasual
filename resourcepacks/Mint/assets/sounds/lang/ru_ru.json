@@ -1,0 +1,10 @@
+{
+  "sounds.config.option.enableEnderpearlVariety": "Разные звуки жемчуга Края",
+  "sounds.config.swordSwoosh.option": "Свист меча",
+  "sounds.config.swordSwoosh.option.description": "Звук при атаке мечом.",
+  "sounds.config.iceStress.option": "Треск льда",
+  "sounds.config.iceStress.option.description": "Звук при прыжке по льду. Изначально из мода Icebreak для WinterJam 2024.",
+  "sounds.config.option.enableVerboseSoundTypeLogging": "Подробный журнал типов звука",
+  "sounds.config.option.description.enableVerboseSoundTypeLogging": "Писать ли в консоль подробности о типах звука блоков? Полезно для отладки.",
+  "sounds.subtitle.sword_swoosh": "Меч свистит"
+}

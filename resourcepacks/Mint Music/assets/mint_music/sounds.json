@@ -1,0 +1,26 @@
+{
+  "music.open_dark_space": {
+    "sounds": [
+      {
+        "name": "mint_music:open_dark_space",
+        "stream": true
+      }
+    ]
+  },
+  "music.wither": {
+    "sounds": [
+      {
+        "name": "mint_music:wither",
+        "stream": true
+      }
+    ]
+  },
+  "music.empty_room_after_midnight": {
+    "sounds": [
+      {
+        "name": "mint_music:empty_room_after_midnight",
+        "stream": true
+      }
+    ]
+  }
+}

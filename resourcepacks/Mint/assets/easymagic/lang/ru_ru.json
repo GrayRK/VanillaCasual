@@ -1,0 +1,8 @@
+{
+  "container.enchant.reroll.many": "Осколков аметиста: %s",
+  "container.enchant.reroll.one": "1 осколок аметиста",
+  "container.invalidBlock": "Не открывается. Сломайте и поставьте заново.",
+  "tag.block.easymagic.unaltered_enchanting_tables": "Нетронутые столы зачарований",
+  "tag.item.easymagic.enchanting_catalysts": "Катализаторы зачарования",
+  "tag.item.easymagic.reroll_catalysts": "Катализаторы пересбора"
+}

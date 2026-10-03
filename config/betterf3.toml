@@ -1,0 +1,147 @@
+# BetterF3 — пресет «Игрок». F3 сильно урезан: версия, FPS, измерение, биом,
+# направление и память. Координат, цели, чанков, сервера и системы нет.
+# Это рабочий вариант сборки, он же лежит в config/betterf3.toml.
+#
+# Важно: конфиг клиентский — игрок может включить модули обратно в экране настроек
+# BetterF3. Жёсткий запрет координат делает только сервер: /gamerule reducedDebugInfo true.
+
+[general]
+disable_mod = false
+auto_start = false
+space_modules = false
+shadow_text = true
+animations = true
+animationSpeed = 1.0
+fontScale = 1.0
+hide_debug_crosshair = false
+hide_sidebar = false
+hide_bossbar = false
+always_show_profiler = false
+always_show_tps = false
+always_show_ping = false
+modules_left_order = ["minecraft", "fps", "location"]
+modules_right_order = ["system"]
+
+[modules.minecraft]
+enabled = true
+[modules.minecraft.lines]
+minecraft = true
+
+[modules.fps]
+enabled = true
+[modules.fps.lines]
+fps = true
+
+[modules.location]
+enabled = true
+[modules.location.lines]
+dimension = true
+biome = true
+facing = true
+rotation = false
+light = false
+light_server = false
+highest_block = false
+highest_block_server = false
+local_difficulty = false
+day_ticks = false
+days_played = false
+slime_chunk = false
+
+[modules.system]
+enabled = true
+[modules.system.lines]
+memory_usage = true
+allocated_memory = true
+time = false
+java_version = false
+allocation_rate = false
+cpu = false
+display = false
+gpu = false
+gpu_utilization = false
+opengl_version = false
+gpu_driver = false
+
+# --- выключено целиком ---
+
+[modules.coords]
+enabled = false
+[modules.coords.lines]
+player_coords = false
+block_coords = false
+chunk_relative_coords = false
+chunk_coords = false
+velocity = false
+absolute_velocity = false
+horizontal_velocity = false
+
+[modules.target]
+enabled = false
+[modules.target.lines]
+targeted_block = false
+id_block = false
+nothing = false
+targeted_fluid = false
+id_fluid = false
+nothing2 = false
+targeted_entity = false
+
+[modules.chunks]
+enabled = false
+[modules.chunks.lines]
+chunk_sections = false
+chunk_culling = false
+pending_chunks = false
+pending_uploads = false
+available_buffers = false
+client_chunk_cache = false
+loaded_chunks = false
+loaded_chunks_server = false
+forceloaded_chunks = false
+spawn_chunks = false
+chunk_file = false
+
+[modules.server]
+enabled = false
+[modules.server.lines]
+server_tick = false
+packets_sent = false
+packets_received = false
+tick_manager_status = false
+
+[modules.graphics]
+enabled = false
+[modules.graphics.lines]
+render_distance = false
+graphics = false
+clouds = false
+biome_blend_radius = false
+shader = false
+
+[modules.entity]
+enabled = false
+[modules.entity.lines]
+particles = false
+entities = false
+
+[modules.sound]
+enabled = false
+[modules.sound.lines]
+sounds = false
+ambient_sounds = false
+mood = false
+
+[modules.help]
+enabled = false
+[modules.help.lines]
+pie_graph_new = false
+fps_tps_new = false
+ping = false
+help = false
+
+[modules.miscleft]
+enabled = false
+
+[modules.miscright]
+enabled = false

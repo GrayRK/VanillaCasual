@@ -1,0 +1,11 @@
+{
+  "priority": 10,
+  "layer": "encounter",
+  "sound_event": "mint_music:music.wither",
+  "condition": {
+    "type": "maestro:entity",
+    "values": ["minecraft:wither"],
+    "search_radius": 64,
+    "required_amount": 1
+  }
+}

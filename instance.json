@@ -1,0 +1,8 @@
+{
+    "id": "vanillacasual",
+    "name": "VanillaCasual",
+    "minecraft": "1.21.1",
+    "loader": "NEOFORGE",
+    "loaderVersion": "21.1.250",
+    "memoryMb": 0
+}

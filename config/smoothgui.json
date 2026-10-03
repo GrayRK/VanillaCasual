@@ -1,0 +1,15 @@
+{
+  "enableAnimation": true,
+  "animationTime": 373,
+  "animationScale": 1.3,
+  "animationStyle": "BACK",
+  "animationDirection": "DOWN",
+  "modifyBackground": true,
+  "backgroundOpacity": 0.65,
+  "backgroundFadeTime": 150,
+  "alwaysBlurBackground": false,
+  "repeatSameScreen": false,
+  "configMode": false,
+  "screensForceEnabled": [],
+  "screensForceDisabled": []
+}

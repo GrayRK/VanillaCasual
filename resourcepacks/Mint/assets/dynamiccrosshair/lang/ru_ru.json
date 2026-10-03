@@ -1,0 +1,20 @@
+{
+  "dynamiccrosshair.option.hideWithMap": "Прятать с картой в руках",
+  "dynamiccrosshair.option.hideWithMap.description": "Скрывать прицел, когда карта в обеих руках, чтобы он её не загораживал",
+  "dynamiccrosshair.option.fixCenteredCrosshair": "Выровнять прицел по центру",
+  "dynamiccrosshair.option.fixCenteredCrosshair.description": "В ванили прицел стоит не точно по центру (MC-157252). Настройка это исправляет. Работает не при всех масштабах интерфейса; с некоторыми модами её лучше выключить.",
+  "dynamiccrosshair.option.crosshairConfig.onInteractableBlock": "Отмечать блоки, с которыми можно взаимодействовать",
+  "dynamiccrosshair.option.crosshairConfig.onInteractableBlock.description": "Показывать особый прицел, когда смотрите на блок, с которым можно взаимодействовать",
+  "dynamiccrosshair.option.crosshairConfig.displayCorrectTool": "Отмечать подходящий инструмент",
+  "dynamiccrosshair.option.crosshairConfig.displayCorrectTool.description": "Показывать прицелом, подходит ли предмет в руке для блока, на который вы смотрите.",
+  "dynamiccrosshair.option.crosshairStyle.coalesce": "Совмещать",
+  "dynamiccrosshair.option.crosshairStyle.coalesce.description": "Разрешить этому виду прицела сочетаться с другими, когда это уместно.",
+  "dynamiccrosshair.group.crosshairStyle": "Вид прицела",
+  "dynamiccrosshair.option.additionalInteractableBlocks": "Дополнительные блоки взаимодействия",
+  "dynamiccrosshair.option.additionalInteractableBlocks.description": "Список имён блоков или тегов, например «minecraft:oak_log» или «#minecraft:stairs». Эти блоки попадут в разряд тех, с которыми можно взаимодействовать.",
+  "dynamiccrosshair.add": "Добавить…",
+  "dynamiccrosshair.edit": "Править…",
+  "dynamiccrosshair.delete": "Удалить",
+  "dynamiccrosshair.save": "Сохранить",
+  "dynamiccrosshair.cancel": "Отмена"
+}

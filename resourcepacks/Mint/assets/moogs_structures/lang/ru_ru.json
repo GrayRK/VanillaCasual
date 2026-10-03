@@ -1,0 +1,16 @@
+{
+  "moogs_structures.config.title": "Структуры Moog's",
+  "moogs_structures.config.reload_notice": "Изменения вступают в силу после перезагрузки мира (выйти в меню и зайти снова либо выполнить /reload) и действуют только на вновь сгенерированные чанки.",
+  "moogs_structures.config.category.replace_vanilla": "Замена ванильных структур",
+  "moogs_structures.config.category.structures": "Структуры",
+  "moogs_structures.config.universal_rarity": "Общая редкость",
+  "moogs_structures.config.universal_rarity.tooltip": "Умножает шаг расстановки всех структур Moog's. Больше — реже, меньше — чаще.",
+  "moogs_structures.config.all_of_mod": "Все структуры: %s",
+  "moogs_structures.config.mod_rarity.tooltip": "Умножает шаг расстановки всех структур мода %s.",
+  "moogs_structures.config.preview": "Предпросмотр",
+  "moogs_structures.config.preview.unavailable": "Предпросмотра нет: мод не указал ссылку (mod_slug).",
+  "moogs_structures.config.enabled": "Включено",
+  "moogs_structures.config.disabled": "Выключено",
+  "moogs_structures.cloth_required.title": "Moog's Structure Lib",
+  "moogs_structures.cloth_required.message": "Экрану настроек Moog's Structure Lib нужен Cloth Config API. Установите его, чтобы настраивать мод из игры."
+}

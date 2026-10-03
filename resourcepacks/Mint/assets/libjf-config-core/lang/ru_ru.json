@@ -1,0 +1,16 @@
+{
+  "libjf_config_core_v2.jfconfig.title": "LibJF Config",
+  "libjf_config_core_v2.jfconfig.watchForChanges": "Следить за изменениями",
+  "libjf_config_core_v2.jfconfig.watchForChanges.tooltip": "Перечитывать настройки сразу после правки файла",
+  "libjf_config_core_v2.errored_entry": "Не удалось показать запись: %s",
+  "libjf_config_core_v2.presets": "Наборы",
+  "libjf_config_core_v2.default": "По умолчанию",
+  "libjf_config_core_v2.see-also": "Смотрите также: %s",
+  "libjf_config_core_v2.reset": "Сбросить",
+  "libjf_config_core_v2.no-screen": "Нет экрана",
+  "libjf_config_core_v2.no-screen.description": "Не нашлось мода, умеющего рисовать экраны настроек. Установите LibJF.",
+  "libjf_config_core_v2.edit": "Править",
+  "libjf_config_core_v2.true": "§aДа",
+  "libjf_config_core_v2.false": "§cНет",
+  "libjf_config_core_v2.null": "§dПусто"
+}

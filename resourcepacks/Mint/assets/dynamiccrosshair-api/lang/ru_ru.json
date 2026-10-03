@@ -1,0 +1,18 @@
+{
+  "tag.block.dynamiccrosshair.always_interactable": "Всегда взаимодействуют",
+  "tag.block.dynamiccrosshair.always_interactable_in_creative_mode": "Всегда взаимодействуют в творческом режиме",
+  "tag.block.dynamiccrosshair.interactable": "Взаимодействуют",
+  "tag.entity_type.dynamiccrosshair.always_interactable": "Всегда взаимодействуют",
+  "tag.entity_type.dynamiccrosshair.interactable": "Взаимодействуют",
+  "tag.item.dynamiccrosshair.always_usable": "Всегда применимы",
+  "tag.item.dynamiccrosshair.always_usable_on_block": "Всегда применимы к блоку",
+  "tag.item.dynamiccrosshair.always_usable_on_entity": "Всегда применимы к существу",
+  "tag.item.dynamiccrosshair.always_usable_on_miss": "Всегда применимы в пустоту",
+  "tag.item.dynamiccrosshair.blocks": "Блоки",
+  "tag.item.dynamiccrosshair.melee_weapons": "Оружие ближнего боя",
+  "tag.item.dynamiccrosshair.ranged_weapons": "Дальнобойное оружие",
+  "tag.item.dynamiccrosshair.shields": "Щиты",
+  "tag.item.dynamiccrosshair.throwables": "Метательные",
+  "tag.item.dynamiccrosshair.tools": "Инструменты",
+  "tag.item.dynamiccrosshair.usable": "Применимые"
+}

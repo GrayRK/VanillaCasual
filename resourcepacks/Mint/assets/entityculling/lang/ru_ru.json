@@ -1,0 +1,9 @@
+{
+  "key.category.minecraft.text.entityculling.title": "EntityCulling",
+  "text.entityculling.blockEntityFrustumCulling": "Отсечение блок-сущностей по полю зрения",
+  "text.entityculling.blockEntityFrustumCulling.tooltip": "Состояние блок-сущностей не считывается для тех, что не попадают в поле зрения камеры. Может поднять производительность, если загрузчик или другой мод этого ещё не делает.",
+  "text.entityculling.forceDisplayCulling": "Принудительное отсечение display-сущностей",
+  "text.entityculling.forceDisplayCulling.tooltip": "Display-сущностям без своей рамки столкновений назначается стандартная, чтобы их тоже можно было отсекать. Помогает на картах и серверах, где такие сущности настроены неправильно, но может давать визуальные огрехи.",
+  "text.entityculling.solidLeaves": "Листва как сплошной блок",
+  "text.entityculling.solidLeaves.tooltip": "Листва считается непрозрачной при отсечении. Ускоряет отрисовку в лесах, но может давать визуальные огрехи. Полезно, если «Просвечивающая листва» выключена или стоит ресурспак с густой листвой."
+}

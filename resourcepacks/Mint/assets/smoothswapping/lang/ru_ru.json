@@ -1,0 +1,6 @@
+{
+  "smoothswapping.config.toggle": "Включение мода",
+  "smoothswapping.config.toggle.on": "Включён",
+  "smoothswapping.config.toggle.off": "Выключен",
+  "smoothswapping.config.option.animationspeed.tooltip": "— правая кнопка по пустому месту добавляет точку\n— левой кнопкой точку можно перетащить\n— правая кнопка по точке удаляет её"
+}

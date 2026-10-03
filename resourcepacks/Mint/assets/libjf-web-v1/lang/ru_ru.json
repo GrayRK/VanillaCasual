@@ -1,0 +1,13 @@
+{
+  "libjf_web_v1.jfconfig.title": "LibJF Web v0",
+  "libjf_web_v1.jfconfig.serverIp": "Адрес сервера",
+  "libjf_web_v1.jfconfig.serverIp.tooltip": "Внешний адрес или имя узла, которое получат клиенты",
+  "libjf_web_v1.jfconfig.port": "Порт",
+  "libjf_web_v1.jfconfig.port.tooltip": "Порт для раздачи содержимого. 0 — выбрать случайный, -1 — занять порт Minecraft на сервере (нужен перезапуск)",
+  "libjf_web_v1.jfconfig.portOverride": "Подменить порт",
+  "libjf_web_v1.jfconfig.portOverride.tooltip": "Порт, который сообщать клиентам (для обратных прокси; -1 — не подменять)",
+  "libjf_web_v1.jfconfig.maxConnections": "Больше всего соединений",
+  "libjf_web_v1.jfconfig.maxConnections.tooltip": "Сколько одновременных соединений выдерживает сервер",
+  "libjf_web_v1.jfconfig.enableFileHost": "Раздавать файлы",
+  "libjf_web_v1.jfconfig.enableFileHost.tooltip": "Раздавать ли файлы из config/wwwroot как обычные ресурсы"
+}

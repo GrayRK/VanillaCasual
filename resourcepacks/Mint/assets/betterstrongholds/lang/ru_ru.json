@@ -1,0 +1,12 @@
+{
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin": "Разрушение крепости",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[0]": "Позволяет узким пещерам слегка разрушать крепость.",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.enableStructureRuin.@Tooltip[1]": "Крупные пещеры крепость не затрагивают.",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance": "Шанс заполненной рамки портала",
+  "text.autoconfig.betterstrongholds-fabric-1_21.option.betterStrongholds.general.filledPortalFrameChance.@Tooltip": "Вероятность того, что в блоке рамки портала Края сразу окажется око Эндера.",
+  "betterstrongholds.configuration.YUNG's Better Strongholds.General": "Общие",
+  "betterstrongholds.configuration.YUNG's Better Strongholds.General.Enable Structure Ruin": "Разрушение крепости пещерами",
+  "betterstrongholds.configuration.YUNG's Better Strongholds.General.Enable Structure Ruin.tooltip": "Позволяет узким пещерам слегка разрушать крепость. Крупные пещеры её не затрагивают. По умолчанию: нет.",
+  "betterstrongholds.configuration.YUNG's Better Strongholds.General.Filled Portal Frame Chance": "Шанс заполненной рамки портала",
+  "betterstrongholds.configuration.YUNG's Better Strongholds.General.Filled Portal Frame Chance.tooltip": "Вероятность того, что в блоке рамки портала Края сразу окажется око Эндера. По умолчанию: 0.1."
+}

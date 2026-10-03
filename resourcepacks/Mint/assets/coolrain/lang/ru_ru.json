@@ -1,0 +1,13 @@
+{
+  "sounds.coolrain.rain_sounds_metal": "Дождь стучит по металлу",
+  "sounds.coolrain.rain_sounds_metal_muffled": "Дождь глухо стучит по металлу",
+  "sounds.coolrain.rain_sounds_glass": "Дождь стучит по стеклу",
+  "sounds.coolrain.rain_sounds_glass_muffled": "Дождь глухо стучит по стеклу",
+  "sounds.coolrain.rain_sounds_fabric": "Дождь шелестит по ткани",
+  "sounds.coolrain.rain_sounds_fabric_muffled": "Дождь глухо шелестит по ткани",
+  "sounds.coolrain.rain_sounds_foliage": "Дождь шумит в листве",
+  "sounds.coolrain.rain_sounds_water": "Дождь шумит по воде",
+  "sounds.coolrain.rain_sounds_lava": "Дождь шипит от жара",
+  "sounds.coolrain.rain_sounds_amethyst": "Дождь звенит по аметисту",
+  "sounds.coolrain.rain_sounds_noteblock": "Дождь звенит по нотному блоку"
+}

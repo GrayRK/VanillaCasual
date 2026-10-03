@@ -1,0 +1,5 @@
+{
+  "shulkerboxtooltip.colors.shulkerboxtooltip.default.generic_container": "Обычное хранилище",
+  "shulkerboxtooltip.config.option.preview.generic_container_preview": "Показывать обычные хранилища",
+  "shulkerboxtooltip.config.option.preview.generic_container_preview.tooltip": "Предметы с данными хранилища, которые мод\nне поддерживает особо, тоже будут показывать\nсодержимое — как шалкеровый ящик."
+}
