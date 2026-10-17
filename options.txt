@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","mod_resources","mod/lootr:resourcepacks/old_textures","file/FreshAnimations_v1.10.4.zip","file/FA+All_Extensions-v1.8.1.zip","file/FA+Player-v1.1.zip","file/Trabens3DArmor-1.0.1.zip","mod/continuity:resourcepacks/default","mod/continuity:resourcepacks/glass_pane_culling_fix","file/FancyCrops-1.3.zip","file/cubic-sun-moon-v1.8.5.zip","file/RAYs_3D_Rails_v3.6.zip","file/RAYs_3D_Ladders_v2.4.zip","file/animated-items-v1.6.3.zip","file/MandalasGUI-Darkmode-2.1.zip","mod/clientsort:resourcepacks/clientsort-dark-mode","file/Icons-1.14.zip","file/EnhancedBossBars-1.6.zip","file/Maestro-Overture.zip","file/Mint Music","file/Mint","generated/fragmentum_layer","obscure_tooltips/packs/vibrant_tooltips","moonlight:merged_pack"]
+resourcePacks:["vanilla","mod_resources","mod/lootr:resourcepacks/old_textures","file/FreshAnimations_v1.10.4.zip","file/FA+All_Extensions-v1.8.1.zip","file/FA+Player-v1.1.zip","file/Trabens3DArmor-1.0.1.zip","mod/continuity:resourcepacks/default","mod/continuity:resourcepacks/glass_pane_culling_fix","file/FancyCrops-1.3.zip","file/cubic-sun-moon-v1.8.5.zip","file/RAYs_3D_Rails_v3.6.zip","file/RAYs_3D_Ladders_v2.4.zip","file/animated-items-v1.6.3.zip","file/MandalasGUI-Darkmode-2.1.zip","mod/clientsort:resourcepacks/clientsort-dark-mode","file/Icons-1.14.zip","file/EnhancedBossBars-1.6.zip","file/Maestro-Overture.zip","file/VillagerNewsRU.zip","file/Mint Music","file/Mint","generated/fragmentum_layer","obscure_tooltips/packs/vibrant_tooltips","moonlight:merged_pack"]
 incompatibleResourcePacks:["file/MandalasGUI-Darkmode-2.1.zip"]
 lastServer:
 lang:ru_ru

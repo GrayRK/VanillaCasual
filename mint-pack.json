@@ -435,6 +435,13 @@
             "side": "CLIENT"
         },
         {
+            "path": "mods/entity_sound_features-0.8.2-1.21-neoforge.jar",
+            "url": "https://cdn.modrinth.com/data/IMuO8COj/versions/eafVUs7O/entity_sound_features-0.8.2-1.21-neoforge.jar",
+            "sha1": "74932e01844b2524d5d7ad958d4bc638ac5743c1",
+            "size": 98932,
+            "side": "CLIENT"
+        },
+        {
             "path": "mods/entity_texture_features-7.2.4-1.21-neoforge.jar",
             "url": "https://cdn.modrinth.com/data/BVzZfTc1/versions/HOizEpC7/entity_texture_features-7.2.4-1.21-neoforge.jar",
             "sha1": "2551bb98d82d4d4064acecd8b513f1db469c635e",
@@ -715,6 +722,13 @@
             "side": "CLIENT"
         },
         {
+            "path": "mods/villager-news-addon-port-neoforge-1.3.6-neoforge.jar",
+            "url": "https://github.com/GrayRK/VanillaCasual/releases/download/v0.1.4/villager-news-addon-port-neoforge-1.3.6-neoforge.jar",
+            "sha1": "af19ab6e4443bcbb09b796b64bb5f0479780bfe2",
+            "size": 42238906,
+            "side": "BOTH"
+        },
+        {
             "path": "mods/yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
             "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
             "sha1": "fe270c9f6e0a8142cf316944087f5109cef08bbb",
@@ -796,6 +810,13 @@
             "url": "https://cdn.modrinth.com/data/unF1UIT0/versions/jk02WXxI/Traben%27s%203D%20Armor%20-%201.0.1.zip",
             "sha1": "d1cb315618725768083cb2322f501ff919b8f213",
             "size": 57862,
+            "side": "CLIENT"
+        },
+        {
+            "path": "resourcepacks/VillagerNewsRU.zip",
+            "url": "https://github.com/GrayRK/VanillaCasual/releases/download/v0.1.4/VillagerNewsRU.zip",
+            "sha1": "ea6f085946b9645dc607db919b7b6018a5b3080a",
+            "size": 41856137,
             "side": "CLIENT"
         },
         {
