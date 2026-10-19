@@ -680,6 +680,13 @@
             "side": "CLIENT"
         },
         {
+            "path": "mods/sgc-0.10.1.jar",
+            "url": "https://github.com/GrayRK/VanillaCasual/releases/download/v0.1.5/sgc-0.10.1.jar",
+            "sha1": "5b0fb580455ea8434ee766f3444584612a521dd5",
+            "size": 184240,
+            "side": "BOTH"
+        },
+        {
             "path": "mods/shulkerboxtooltip-neoforge-5.1.9+1.21.1.jar",
             "url": "https://cdn.modrinth.com/data/2M01OLQq/versions/IuqNIoAi/shulkerboxtooltip-neoforge-5.1.9%2B1.21.1.jar",
             "sha1": "bddbccd689529f7f7ab04479e62c5e09b0be6be5",
